@@ -6,7 +6,7 @@
       {
         "id": "0fe182ef86bebe9b",
         "type": "tabs",
-        "dimension": 16.286644951140065,
+        "dimension": 44.901315789473685,
         "children": [
           {
             "id": "0034fdcd73f27d07",
@@ -56,7 +56,7 @@
       {
         "id": "487579f092063046",
         "type": "tabs",
-        "dimension": 83.71335504885994,
+        "dimension": 55.098684210526315,
         "children": [
           {
             "id": "91cc1f2868000cca",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAMEPLAY REVISITED.canvas",
+                "file": "Resultats cartes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GAMEPLAY REVISITED"
+              "title": "Backlinks for Resultats cartes"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAMEPLAY REVISITED.canvas",
+                "file": "Resultats cartes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GAMEPLAY REVISITED"
+              "title": "Outgoing links from Resultats cartes"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAMEPLAY REVISITED.canvas",
+                "file": "Resultats cartes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GAMEPLAY REVISITED"
+              "title": "Outline of Resultats cartes"
             }
           }
         ]
@@ -237,10 +237,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "91cc1f2868000cca",
+  "active": "1e5182b3d2405efc",
   "lastOpenFiles": [
-    "GAMEPLAY ROUGH.canvas",
     "GAMEPLAY REVISITED.canvas",
+    "GAMEPLAY ROUGH.canvas",
     "GAMEPLAY.canvas",
     "LORE.md",
     "Resultats cartes.md",
