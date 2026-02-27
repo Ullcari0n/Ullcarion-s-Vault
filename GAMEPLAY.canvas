@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"aa2958f71489c177","type":"group","x":-340,"y":-260,"width":290,"height":180,"label":"1X par tour"},
+		{"id":"4383ae87f570bbea","type":"group","x":-340,"y":80,"width":290,"height":180,"label":"1x par tour"},
+		{"id":"4fedc4994e33425f","type":"text","text":"Roll D6","x":-320,"y":-240,"width":250,"height":60},
+		{"id":"f36c10a22657bc95","type":"text","text":"Vision + ou moins clair en fonction de ","x":-320,"y":-160,"width":250,"height":60},
+		{"id":"1845a2da42f6239b","type":"text","text":"Choix personnage a qui parler","x":-320,"y":-40,"width":250,"height":60},
+		{"id":"251933e62fc03c26","type":"text","text":"Roll D20","x":-320,"y":100,"width":250,"height":60},
+		{"id":"70d4046facc142eb","type":"text","text":"Choix dialogue parmis ce qui est disponible","x":-320,"y":180,"width":250,"height":60},
+		{"id":"269ddeb5cd853ea0","x":-720,"y":-180,"width":250,"height":60,"type":"text","text":"Destin"},
+		{"id":"a272bb7665156f3c","type":"text","text":"Indice","x":-720,"y":-100,"width":250,"height":60},
+		{"id":"9a81e6d6ec92e515","x":-678,"y":360,"width":223,"height":87,"type":"text","text":"Pas d'indice\n\tBad fate"},
+		{"id":"d003b875abbf3836","type":"text","text":"\tIndice peu clair\n\tBad fate","x":-435,"y":360,"width":223,"height":87},
+		{"id":"49a712e43752f49e","type":"text","text":"\tIndice clair\n\tMedium fate","x":-195,"y":360,"width":223,"height":87},
+		{"id":"578ec7f4708cfc8f","type":"text","text":"Bon indice\nGood fate","x":20,"y":360,"width":223,"height":87}
+	],
+	"edges":[
+		{"id":"c1a8bb7e496cae53","fromNode":"aa2958f71489c177","fromSide":"bottom","toNode":"1845a2da42f6239b","toSide":"top"},
+		{"id":"7171d4fddd6e278f","fromNode":"1845a2da42f6239b","fromSide":"bottom","toNode":"251933e62fc03c26","toSide":"top"},
+		{"id":"72689a8a344e8f26","fromNode":"251933e62fc03c26","fromSide":"bottom","toNode":"70d4046facc142eb","toSide":"top"},
+		{"id":"54065e8ef495801e","fromNode":"4fedc4994e33425f","fromSide":"bottom","toNode":"f36c10a22657bc95","toSide":"top"},
+		{"id":"a379fb4771a6b8ae","fromNode":"70d4046facc142eb","fromSide":"bottom","toNode":"9a81e6d6ec92e515","toSide":"top","label":"0-5"},
+		{"id":"de36fb11fb836f8c","fromNode":"4383ae87f570bbea","fromSide":"bottom","toNode":"d003b875abbf3836","toSide":"top","label":"5-10"},
+		{"id":"8188c7f65e90ed4e","fromNode":"4383ae87f570bbea","fromSide":"bottom","toNode":"49a712e43752f49e","toSide":"top","label":"10-15"},
+		{"id":"71d32b6f8c051418","fromNode":"4383ae87f570bbea","fromSide":"bottom","toNode":"578ec7f4708cfc8f","toSide":"top","label":"15-20"}
+	]
+}
