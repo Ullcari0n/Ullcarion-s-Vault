@@ -374,8 +374,7 @@
 		{"id":"d58601c289ae1659","type":"text","text":"Do not disturb me in my work.","x":1300,"y":3500,"width":250,"height":180},
 		{"id":"3f4749f423175cc1","type":"text","text":"I am the Fool, employed by our gracious king to amuse and distract the court.  \nI am the jester, the clown—made for laughter and obedience.","x":1605,"y":3120,"width":250,"height":180},
 		{"id":"afa8eefc6b7e05f7","type":"text","text":"Fool","x":1605,"y":2860,"width":250,"height":60,"color":"5"},
-		{"id":"f985cab9321ed397","type":"text","text":"The court will soon be dancing, and I shall be there to entertain them.  \nSuch is my cross to bear.","x":1605,"y":3500,"width":250,"height":180},
-		{"id":"b1a26460f22871bb","x":-9170,"y":2536,"width":250,"height":60,"type":"text","text":"TEST TEST TEST"}
+		{"id":"f985cab9321ed397","type":"text","text":"The court will soon be dancing, and I shall be there to entertain them.  \nSuch is my cross to bear.","x":1605,"y":3500,"width":250,"height":180}
 	],
 	"edges":[
 		{"id":"ce5b3447c377ddd2","fromNode":"c8687c4a6912c515","fromSide":"right","toNode":"90600c0d466d939b","toSide":"left"},
