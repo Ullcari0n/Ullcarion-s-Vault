@@ -6,7 +6,6 @@
       {
         "id": "0fe182ef86bebe9b",
         "type": "tabs",
-        "dimension": 16.447368421052634,
         "children": [
           {
             "id": "0034fdcd73f27d07",
@@ -40,42 +39,21 @@
             "id": "1e5182b3d2405efc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Resultats cartes.md",
-                "mode": "source",
-                "source": false
+                "file": "TEXTES.canvas",
+                "viewState": {
+                  "x": -5560.12770578482,
+                  "y": 2121.6037889554245,
+                  "zoom": -0.9570970168798497
+                }
               },
-              "icon": "lucide-file",
-              "title": "Resultats cartes"
+              "icon": "lucide-layout-dashboard",
+              "title": "TEXTES"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "487579f092063046",
-        "type": "tabs",
-        "dimension": 83.55263157894737,
-        "children": [
-          {
-            "id": "91cc1f2868000cca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GAMEPLAY REVISITED.canvas",
-                "viewState": {
-                  "x": 2011.069329598242,
-                  "y": -1602.768193281018,
-                  "zoom": -0.2171611932480596
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "GAMEPLAY REVISITED"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +217,8 @@
   },
   "active": "1e5182b3d2405efc",
   "lastOpenFiles": [
-    "GAMEPLAY REVISITED.canvas",
     "Resultats cartes.md",
+    "GAMEPLAY REVISITED.canvas",
     "GAMEPLAY ROUGH.canvas",
     "GAMEPLAY.canvas",
     "LORE.md",
