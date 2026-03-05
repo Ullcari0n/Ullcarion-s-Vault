@@ -6,7 +6,7 @@
       {
         "id": "0fe182ef86bebe9b",
         "type": "tabs",
-        "dimension": 44.901315789473685,
+        "dimension": 16.447368421052634,
         "children": [
           {
             "id": "0034fdcd73f27d07",
@@ -56,7 +56,7 @@
       {
         "id": "487579f092063046",
         "type": "tabs",
-        "dimension": 55.098684210526315,
+        "dimension": 83.55263157894737,
         "children": [
           {
             "id": "91cc1f2868000cca",
@@ -66,9 +66,9 @@
               "state": {
                 "file": "GAMEPLAY REVISITED.canvas",
                 "viewState": {
-                  "x": -2134.809694097111,
-                  "y": -24.192027008386106,
-                  "zoom": -1.1300320881841044
+                  "x": 2011.069329598242,
+                  "y": -1602.768193281018,
+                  "zoom": -0.2171611932480596
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -228,22 +228,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "1e5182b3d2405efc",
   "lastOpenFiles": [
     "GAMEPLAY REVISITED.canvas",
+    "Resultats cartes.md",
     "GAMEPLAY ROUGH.canvas",
     "GAMEPLAY.canvas",
     "LORE.md",
-    "Resultats cartes.md",
     "Welcome.md",
     "GameJam"
   ]
