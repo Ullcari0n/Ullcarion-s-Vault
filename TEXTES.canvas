@@ -22,7 +22,7 @@
 		{"id":"4f257d63d96ea1bd","type":"group","x":-8680,"y":2250,"width":1497,"height":290,"label":"TOUR 3"},
 		{"id":"592d7fd1a80e4f12","type":"group","x":-9627,"y":1660,"width":790,"height":520,"label":"POEME OSSELETS"},
 		{"id":"a57680a0ec800747","type":"group","x":-9340,"y":4250,"width":415,"height":940,"label":"CARTE PERSONNAGES"},
-		{"id":"1cf373bc96158718","x":-8700,"y":1240,"width":290,"height":1230,"color":"1","type":"group","label":"MODIFICATIONS"},
+		{"id":"1cf373bc96158718","type":"group","x":-8700,"y":1240,"width":290,"height":1230,"color":"1","label":"MODIFICATIONS"},
 		{"id":"fbba7a43f50bd0b9","type":"group","x":-9640,"y":1120,"width":800,"height":440,"label":"TEXTE DEBUT"},
 		{"id":"0e8506e464745873","type":"group","x":-7240,"y":85,"width":1235,"height":280,"color":"1","label":"MODIFICATIONS"},
 		{"id":"059e4a2e5a930fe1","type":"group","x":-6010,"y":4250,"width":520,"height":580,"color":"6","label":"HANGED MAN"},
@@ -371,15 +371,16 @@
 		{"id":"4fd3697fa33f8471","type":"text","text":"From the dusty, gloomy dungeons beneath the castle, you are finally led back into the light.  \nMany years have passed since they tore you from your hut and locked you away.\n\nYou are a fortune teller, a seer bound to the will of the crown. The king now summons you to read the future and bless the coming union of his son.\n\nBut as the visions begin to stir behind your eyes, a question rises within you:\n\nMust fate truly unfold this way?\n\nOr can the future be changed…?","x":-9620,"y":1220,"width":760,"height":320},
 		{"id":"720fe8ad1b6859e3","type":"text","text":"Tour 1","x":-9607,"y":1800,"width":250,"height":60},
 		{"id":"92c8b5232347cace","type":"text","text":"Tour 2","x":-9357,"y":1800,"width":250,"height":60},
-		{"id":"89011e67b2e70844","type":"text","text":"#Love seeketh not itself # to please,\nNor for itself hath any care;\nBut for another gives its ease,\nAnd builds #a Heaven in Hell’s despair#.","x":-9607,"y":1917,"width":250,"height":243},
-		{"id":"4a6f8b38ac8f6c1b","type":"text","text":"Outside the #feast the streets grow thin#,\nEmpty bowls and hollow song.\nThe #fool who laughs before the throne#\nKnows hunger does not laugh for long.","x":-9357,"y":1917,"width":250,"height":243},
+		{"id":"89011e67b2e70844","type":"text","text":"#Love seeketh not itself # to please,\nNor for itself hath any care;\nBut for #another gives its ease#,\nAnd builds #a Heaven in Hell’s despair#.","x":-9607,"y":1917,"width":250,"height":243},
+		{"id":"4a6f8b38ac8f6c1b","type":"text","text":"Outside the #feast the streets grow thin#,\nEmpty #bowls and hollow# song.\nThe #fool who laughs before the throne#\nKnows hunger does not laugh for long.","x":-9357,"y":1917,"width":250,"height":243},
 		{"id":"b773e5647587c570","type":"text","text":"Three paths wait beneath the stars:\nA #crown, a blade#, a burning gate.\nA #heart# may follow love tonight—\nOr #kingdoms crumble under fate#.","x":-9107,"y":1917,"width":250,"height":243},
 		{"id":"1a4e2d22b9e32aff","type":"text","text":"Tour 3","x":-9107,"y":1800,"width":250,"height":60},
 		{"id":"71bfe45f0a3013fd","type":"text","text":"POEME OSSELETS","x":-9357,"y":1680,"width":250,"height":60},
 		{"id":"6b5d2d38d7645562","type":"text","text":"Please ... Make it stop ... I only want it to end. I want it all to end ...","x":-8680,"y":1520,"width":250,"height":220},
 		{"id":"57959b77438b19a7","type":"text","text":"Prisonner","x":-8680,"y":1260,"width":250,"height":60,"color":"5"},
 		{"id":"d915428015ce30b0","type":"text","text":"Please ... I can't take it anymore ... I beg you ...","x":-8680,"y":1900,"width":250,"height":180},
-		{"id":"d1456d5354bfd353","type":"text","text":"//He stares in the void, motionless.//","x":-8680,"y":2270,"width":250,"height":180}
+		{"id":"d1456d5354bfd353","type":"text","text":"//His body stands motionless on the cold dungeon's ground.//","x":-8680,"y":2270,"width":250,"height":180},
+		{"id":"0ce3f794af5b26fa","type":"text","text":"/!\\ Faire des censures des ???  plutot que des lettres aléatoires \n\n","x":-9870,"y":1920,"width":250,"height":160,"color":"2"}
 	],
 	"edges":[
 		{"id":"ce5b3447c377ddd2","fromNode":"c8687c4a6912c515","fromSide":"right","toNode":"90600c0d466d939b","toSide":"left"},
