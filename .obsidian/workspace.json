@@ -43,9 +43,9 @@
               "state": {
                 "file": "TEXTES.canvas",
                 "viewState": {
-                  "x": -5591.145903121231,
-                  "y": 3089.0818878805485,
-                  "zoom": -3.39141940337597
+                  "x": -9438.80436545024,
+                  "y": 2103.2906877246846,
+                  "zoom": -1.0580860700426362
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#another",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
